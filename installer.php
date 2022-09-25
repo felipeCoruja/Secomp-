@@ -56,11 +56,11 @@ namespace {
     LogHandler::init_error_handler();
     class DUPX_Bootstrap
     {
-        const ARCHIVE_FILENAME   = '20220925_secomp_5d3bcf1f48735bbd3044_20220925211952_archive.zip';
-        const ARCHIVE_SIZE       = '37914805';
+        const ARCHIVE_FILENAME   = '20220925_secompV2_51b1d86c7aefc9bc1199_20220925231238_archive.zip';
+        const ARCHIVE_SIZE       = '45119717';
         const INSTALLER_DIR_NAME = 'dup-installer';
-        const PACKAGE_HASH       = '5d3bcf1-25211952';
-        const SECONDARY_PACKAGE_HASH = '2530409-25211952';
+        const PACKAGE_HASH       = '51b1d86-25231238';
+        const SECONDARY_PACKAGE_HASH = '5933860-25231238';
         const VERSION            = '1.5.0';
         const MINIMUM_PHP_VERSION = '5.3.8';
         const ZIP_MODE_AUTO    = 0;
